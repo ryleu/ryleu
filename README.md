@@ -4,4 +4,4 @@ Howdy! I'm Riley (AKA FourInchKnife) and I'm a student and hobbyist developer in
 
 # Stats
 
-[![FourInchKnife's GitHub stats](https://github-readme-stats.vercel.app/api?username=FourInchKnife)](https://github.com/anuraghazra/github-readme-stats)
+[![FourInchKnife's GitHub stats](https://github-readme-stats.vercel.app/api?username=FourInchKnife&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
