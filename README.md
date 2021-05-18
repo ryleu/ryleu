@@ -1,6 +1,6 @@
 # Who are you?
 
-Howdy! I'm Riley (AKA FourInchKnife) and I'm a student and hobbyist developer in the US. Welcome to my GitHub page!
+Howdy! I'm Riley (AKA FourInchKnife) and I'm a student and hobbyist developer in the US. I work with Python, Java, and I dabble in a few other languages. I also support Open Source, Right to Repair, and personal freedom. Welcome to my GitHub page!
 
 # Stats
 
