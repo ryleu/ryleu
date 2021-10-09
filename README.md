@@ -1,6 +1,6 @@
 # Who are you?
 
-Howdy! I'm Riley (AKA ryleu) and I'm a student and hobbyist developer in the US. I work with Python, Java, and I dabble in a few other languages. Welcome to my GitHub page!
+Howdy! I'm Riley (AKA ryleu) and I'm a student and hobbyist developer in the US. I work mostly with Python and Java, but I dabble in a few other languages. Welcome to my GitHub page!
 
 # Stats
 
